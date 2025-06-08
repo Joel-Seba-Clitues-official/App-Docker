@@ -1,4 +1,4 @@
-                                                                                      🚌 Bus Reservation System - Dockerized
+                  🚌 Bus Reservation System - Dockerized
 
 
 
@@ -54,6 +54,7 @@ bus-reservation-system/
 
 
 
+
 🚀 Getting Started:
 
 
@@ -64,6 +65,7 @@ bus-reservation-system/
 3️⃣ Run the Container
 
 🐋 Using Docker Compose - Create a docker-compose.yml file and run.
+
 
 
 
