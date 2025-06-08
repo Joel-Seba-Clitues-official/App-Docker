@@ -17,6 +17,19 @@ This is a containerized Django-based Bus Reservation System that allows passenge
                 This project is containerized using Docker to simplify setup and deployment.
 
 
+✅ My Contribution
+
+               📁 Cloned the original project from jameskomo/bus-reservation-system
+               
+               📦 Added a complete Dockerfile to containerize the Django application
+               
+               🐘 Configured the project to use PostgreSQL as the database 
+
+               🐳 Ensured the app runs smoothly in a Docker container
+
+               🌐 Made the application accessible through the browser via localhost:8000
+
+        
 
 📦 Features:
 
