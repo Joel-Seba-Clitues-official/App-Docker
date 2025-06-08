@@ -1,58 +1,74 @@
-🚌 Bus Reservation System - Dockerized
+                                                                                      🚌 Bus Reservation System - Dockerized
+
+
 
 This is a containerized Django-based Bus Reservation System that allows passengers to:
 
-Register/Login with authentication
+                Register/Login with authentication
 
-Search available buses based on origin and destination
+                Search available buses based on origin and destination
 
-Book seats and view billing
+                Book seats and view billing
 
-Cancel reservations
+                Cancel reservations
 
-Manage their profile
+                Manage their profile
 
-This project is containerized using Docker to simplify setup and deployment.
-
-
-📦 Features
+                This project is containerized using Docker to simplify setup and deployment.
 
 
-🐍 Python 3 / Django Web Framework
 
-🔐 Secure user authentication system
-
-🚌 Search and book buses
-
-📃 Booking history and billing
-
-🧾 Cancel and manage reservations
-
-🐳 Dockerized for portability and ease of use
+📦 Features:
 
 
-Structure
+               🐍 Python 3 / Django Web Framework
+
+               🔐 Secure user authentication system
+
+               🚌 Search and book buses
+
+               📃 Booking history and billing
+
+               🧾 Cancel and manage reservations
+
+               🐳 Dockerized for portability and ease of use
+
+
+
+Structure:
+
 
 
 bus-reservation-system/
+
 │
+
 ├── bus-reservation-system/   # Main Django app
+
 ├── Dockerfile                # Dockerfile for containerization
+
 ├── requirements.txt          # Python dependencies
+
 ├── manage.py                 # Django entry point
 └── ...
 
 
-🚀 Getting Started
+
+🚀 Getting Started:
+
 
 1️⃣ Clone the Repository
+
 2️⃣ Build the Docker Image
+
 3️⃣ Run the Container
 
 🐋 Using Docker Compose - Create a docker-compose.yml file and run.
 
 
-🔮 Future Enhancements
+
+🔮 Future Enhancements:
+
 
 CI/CD Pipeline: Integrate with GitHub Actions, Jenkins, or GitLab CI for automated testing, linting, and deployment.
 
